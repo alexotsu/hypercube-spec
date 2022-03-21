@@ -122,7 +122,7 @@ The diagram below illustrates how data flows in this system.
 
 Consider Alice, Bob, and Carl, all trying to post exactly the same thing. However, Alice tweets before Bob, who tweets before Carl. A representation of their parsed data is below:
 
-![](img/tweet-data.png);
+![](img/tweet-data.png)
 
 Because the timestamps and authors are different, the hashes are completely different as well:
 
